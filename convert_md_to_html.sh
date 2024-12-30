@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Directory containing markdown files
-INPUT_DIR="docs"
+INPUT_DIR="src"
 # Directory to output HTML files
-OUTPUT_DIR="build"
+OUTPUT_DIR="docs"
 # Path to the HTML template
 TEMPLATE_FILE="template.html"
 
